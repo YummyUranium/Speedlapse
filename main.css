@@ -1,8 +1,8 @@
 @font-face {
-    font-family: myFirstFont;
+    font-family: Roboto;
     src: ("Roboto-Medium.ttf");
 }
 
 div {
-    font-family: myFirstFont;
+    font-family: Roboto;
 }
