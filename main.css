@@ -3,6 +3,6 @@
     src: ("Roboto-Medium.ttf");
 }
 
-div {
+* {
     font-family: Roboto;
 }
