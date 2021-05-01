@@ -9,9 +9,9 @@ h1+h2 {
 }
 
 .button {
-    border: black;
+    border: green;
     color: white;
-    padding: 5px 8px;
+    padding: 15px 8px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
