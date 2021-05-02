@@ -9,13 +9,14 @@ h1+h2 {
 }
 
 .button {
-    border: green;
+    border: black;
     color: white;
-    padding: 15px 8px;
+    padding: 5px 8px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+    background-color: black;
 }
