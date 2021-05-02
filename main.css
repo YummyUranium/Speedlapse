@@ -3,7 +3,7 @@
     src: ("fonts/Roboto-Medium.ttf");
 }
 
-title+button {
+.title {
     font-family: Roboto;
     text-align: center;
 }
@@ -19,4 +19,5 @@ title+button {
     margin: 4px 2px;
     cursor: pointer;
     background-color: black;
+    font-family: Roboto;
 }
