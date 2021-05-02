@@ -3,7 +3,7 @@
     src: ("fonts/Roboto-Medium.ttf");
 }
 
-h1+h2 {
+title+button {
     font-family: Roboto;
     text-align: center;
 }
