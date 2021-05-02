@@ -20,4 +20,8 @@
     cursor: pointer;
     background-color: black;
     font-family: Roboto;
+    display: block;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 30%;
 }
