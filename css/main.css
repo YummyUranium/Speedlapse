@@ -1,14 +1,15 @@
 @font-face {
     font-family: "Roboto";
-    src: url("../fonts/Roboto-Medium.ttf") format("ttf") ;
+    src: url("../fonts/Roboto-Medium.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Hemi-Head";
+    src: url("../fonts/Hemi-Head.ttf") format("ttf");
 }
 
 .title {
     text-align: center;
-    @font-face {
-    font-family: "Hemi-Head";
-    src: url("../fonts/Hemi-Head.ttf") format("ttf");
-    } 
 }
 
 .button {
@@ -22,7 +23,7 @@
     margin: 4px 2px;
     cursor: pointer;
     background-color: black;
-    font-family: Roboto;
+    font-family: "Roboto";
     display: block;
     width: 20%;
     margin-left: 40%;
