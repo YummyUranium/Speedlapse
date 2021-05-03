@@ -5,7 +5,8 @@
 
 @font-face {
     font-family: "Hemi-Head";
-    src: url("../fonts/Hemi-Head.ttf") format("truetype");
+    src: url("../fonts/Hemi-Head.eot");
+    src: url("../fonts/Hemi-Head.eot") format("embedded-opentype"), url("../fonts/Hemi-Head.woff2") format("web-open-font-format2"), url("../fonts/Hemi-Head.woff") format("web-open-font-format"), url("../fonts/Hemi-Head.ttf") format("truetype");
 }
 
 .title {
