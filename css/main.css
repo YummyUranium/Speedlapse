@@ -1,11 +1,11 @@
 @font-face {
     font-family: Roboto;
-    src: ("fonts/Roboto-Medium.ttf");
+    src: url(".. /fonts/Roboto-Medium.ttf");
 }
 
 .title {
     font-family: Hemi Head;
-    src: "fonts/Hemi-Head.ttf";
+    src: url("../fonts/Hemi-Head.ttf");
     text-align: center;
 }
 
