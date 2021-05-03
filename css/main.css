@@ -1,12 +1,14 @@
 @font-face {
-    font-family: Roboto;
-    src: ("fonts/Roboto-Medium.ttf");
+    font-family: "Roboto";
+    src: url("../fonts/Roboto-Medium.ttf") format("ttf") ;
 }
 
 .title {
-    font-family: Hemi Head;
-    src: "fonts/Hemi-Head.ttf";
     text-align: center;
+    @font-face {
+    font-family: "Hemi-Head";
+    src: url("../fonts/Hemi-Head.ttf") format("ttf");
+    } 
 }
 
 .button {
